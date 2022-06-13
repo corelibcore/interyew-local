@@ -1,2 +1,3 @@
 # interyew-local
-Initial Push
+cargo Build Settings:
+build --release --target wasm32-unknown-unknown --package interyew 
